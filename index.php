@@ -3,7 +3,7 @@
 <title>!Tarea de Administracion de Servicios web </title>
 </head> 
 <body 
-bgcolor="orange"
+bgcolor="blue"
 text="black">
 <center>
 
